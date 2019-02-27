@@ -1,0 +1,28 @@
+
+body {
+text-align: center;
+padding: 20px;
+background: pink;
+font-family: "Helvetica";
+}
+
+h2 {
+    font-size: 40px;
+}
+
+p {
+    font-style: italic;
+}
+
+ul {
+    list-style-type: none;
+}
+
+#vid {
+    padding: 30px;
+}
+
+#image {
+    padding: 50px;
+    border-radius: 50%;
+}
